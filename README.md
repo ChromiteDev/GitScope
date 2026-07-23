@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/ChromiteDev/gitscope?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/ChromiteDev/gitscope?style=for-the-badge" />
-<img src="https://img.shields.io/github/issues/ChromiteDev/gitscope?style=for-the-badge" />
-<img src="https://img.shields.io/github/languages/top/ChromiteDev/gitscope?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/ChromiteDev/GitScope?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/ChromiteDev/GitScope?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/ChromiteDev/GitScope?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/ChromiteDev/GitScope?style=for-the-badge" />
 
 <br />
 
