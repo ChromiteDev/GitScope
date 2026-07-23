@@ -1,248 +1,314 @@
-# GitScope
+# GitScope 🚀
 
-> **Understand your GitHub profile. Improve your developer presence.**
+<div align="center">
 
-GitScope is a modern open-source GitHub Profile Analyzer that helps developers measure, understand, and improve their GitHub presence.
+<img src="https://img.shields.io/github/stars/ChromiteDev/gitscope?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/ChromiteDev/gitscope?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/ChromiteDev/gitscope?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/ChromiteDev/gitscope?style=for-the-badge" />
 
-Enter any GitHub username and get a detailed developer report covering coding activity, repository quality, technology skills, open-source impact, and profile improvements.
+<br />
 
-Built for developers who want to turn their GitHub profile into a stronger portfolio.
+## Understand your GitHub. Improve your developer presence.
 
----
+A premium open-source GitHub intelligence platform that analyzes developer profiles, repositories, coding habits, and open-source impact.
 
-## ✨ Features
+[Demo](#) • [Features](#features) • [Installation](#installation) • [Roadmap](#roadmap)
 
-### 🔍 GitHub Profile Analysis
-
-Analyze any public GitHub profile:
-
-* Avatar and profile information
-* Followers and following
-* Account age
-* Repository count
-* Website and profile quality
-* Developer activity overview
-* Technology usage
+</div>
 
 ---
 
-## 📊 GitScope Score
+# ✨ What is GitScope?
 
-Every profile receives a developer score from **0-100**.
+GitScope turns a GitHub profile into a complete developer intelligence report.
+
+Enter any GitHub username and discover:
+
+- Developer score
+- Repository quality
+- Coding strengths
+- Technology profile
+- Open-source impact
+- Improvement recommendations
+
+Instead of just showing GitHub statistics, GitScope explains **what they mean**.
+
+> Your GitHub profile is your developer portfolio. GitScope helps you understand and improve it.
+
+---
+
+# 🌟 Why GitScope?
+
+Most GitHub analytics tools only show numbers:
+
+```
+
+Followers
+Stars
+Repositories
+Languages
+
+```
+
+GitScope goes further.
+
+It analyzes:
+
+```
+
+Profile Quality
+↓
+Repository Health
+↓
+Coding Activity
+↓
+Technical Diversity
+↓
+Developer Growth
+
+```
+
+Creating a complete picture of your developer presence.
+
+---
+
+# 🚀 Features
+
+## 🔍 GitHub Profile Intelligence
+
+Analyze any public GitHub profile.
+
+Includes:
+
+- Avatar and profile information
+- Account age
+- Followers
+- Following
+- Repository count
+- Coding activity
+- Contribution patterns
+- Technology usage
+
+---
+
+# 🏆 GitScope Developer Score
+
+Every profile receives a score from **0-100**.
 
 Example:
 
 ```
+
 GitScope Score
 
-87 / 100
+92 / 100
 
-Excellent Developer Profile
+Elite Developer
+
 ```
 
 Score categories:
 
-### Activity Score
-
-Measures:
-
-* Commit consistency
-* Recent activity
-* Repository maintenance
-* Development frequency
-
-### Project Quality Score
-
-Analyzes:
-
-* Repository stars
-* Forks
-* Documentation
-* README quality
-* Topics
-* Project activity
-
-### Technical Diversity Score
-
-Evaluates:
-
-* Programming languages
-* Framework usage
-* Technology variety
-
-### Community Score
-
-Measures:
-
-* Followers
-* Open-source impact
-* Stars received
-* Developer engagement
-
-### Profile Score
-
-Checks:
-
-* Bio quality
-* Profile README
-* Website
-* Organization details
+| Category | Measures |
+|-|-|
+| Activity | Commits, consistency, maintenance |
+| Projects | Repository quality and impact |
+| Technology | Language diversity and skills |
+| Community | Stars, followers, contributions |
+| Profile | README, bio, portfolio quality |
 
 ---
 
-# 🚀 Repository Intelligence
+# 📦 Repository Intelligence
 
-GitScope analyzes important repositories and ranks projects based on quality.
+GitScope analyzes your most important projects.
 
-For each repository:
+Each repository receives:
 
-* Name
-* Description
-* Language
-* Stars
-* Forks
-* Topics
-* Last update
-* Activity score
-* Documentation quality
-
-Discover your strongest projects and where you can improve.
-
----
-
-# 💡 Smart Recommendations
-
-GitScope does not require AI APIs.
-
-Recommendations are generated using intelligent rule-based analysis.
-
-Examples:
-
-```
-Your repositories do not have descriptions.
-
-Recommendation:
-Add clear descriptions to improve discoverability.
-```
-
-```
-Your profile has no website.
-
-Recommendation:
-Add a portfolio link to showcase your work.
-```
-
----
-
-# 🏆 Shareable Developer Cards
-
-Create beautiful profile cards you can share.
+- Quality score
+- Activity score
+- Documentation score
+- Community score
+- Maintenance score
 
 Example:
 
 ```
-ChromiteDev
 
-GitScope Score
-92/100
-
-Top Skills:
-TypeScript
-React
-Python
-
-Best Project:
 Chroma
+
+Repository Health
+
+Documentation   █████████░ 90%
+Activity        ███████░░░ 70%
+Community       ████████░░ 80%
+
+Overall: 84%
+
 ```
-
-Features:
-
-* Shareable links
-* Developer badges
-* Exportable cards
-* Social sharing
 
 ---
 
-# 🎨 Design
+# 🧠 Smart Recommendations
 
-GitScope is designed with inspiration from:
+No AI API required.
 
-* Vercel
-* Linear
-* GitHub
-* Raycast
-* Supabase
+GitScope uses intelligent rules to provide improvement suggestions.
 
-Built with:
+Examples:
 
-* Dark-first interface
-* Smooth animations
-* Responsive layouts
-* Modern developer-focused UI
+```
+
+❌ Your repositories have no descriptions
+
+Recommendation:
+Add clear project descriptions to improve discoverability.
+
+```
+```
+
+❌ Missing profile README
+
+Recommendation:
+Create a developer introduction page.
+
+```
+
+---
+
+# 🪪 Developer Cards
+
+Create beautiful shareable developer cards.
+
+Example:
+
+```
+
+┌──────────────────────┐
+│ ChromiteDev           │
+│                      │
+│ GitScope Score: 92    │
+│                      │
+│ TypeScript            │
+│ React                 │
+│ Open Source           │
+└──────────────────────┘
+
+```
+
+Share on:
+
+- GitHub README
+- LinkedIn
+- X/Twitter
+- Discord
+
+---
+
+# 📊 Public Leaderboard
+
+Discover developers around the world.
+
+Features:
+
+- Highest scores
+- Rising developers
+- Trending repositories
+- Open-source creators
+
+---
+
+# ⚔️ Developer Comparison
+
+Compare any two developers.
+
+Example:
+
+```
+
+Developer A vs Developer B
+
+Projects:
+██████████
+
+Languages:
+███████
+
+Community:
+████████
+
+```
+
+Find strengths, differences, and growth opportunities.
+
+---
+
+# 🏅 Achievement System
+
+Earn developer badges.
+
+Examples:
+
+```
+
+⭐ First Star
+
+🔥 Active Maintainer
+
+🌎 Open Source Contributor
+
+📚 Documentation Master
+
+🚀 Rising Developer
+
+```
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+Built using modern technologies.
 
-* Next.js
-* TypeScript
-* Tailwind CSS
-* shadcn/ui
-* Framer Motion
-* Recharts
-
-## Backend
-
-* Next.js API Routes
-* GitHub REST API
-* GitHub GraphQL API
-
-## Database
-
-* Supabase PostgreSQL
-* Row Level Security
-
-## Deployment
-
-Compatible with:
-
-* Vercel
-* Netlify
-* Other modern hosting platforms
+| Layer | Technology |
+|-|-|
+| Framework | Next.js 15 |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| Components | shadcn/ui |
+| Animation | Framer Motion |
+| Charts | Recharts |
+| Database | Supabase |
+| API | GitHub REST + GraphQL |
+| Deployment | Vercel |
 
 ---
 
-# 📁 Project Structure
+# 🏗 Architecture
 
 ```
-src
-├── components
-│   ├── ProfileCard
-│   ├── ScoreRing
-│   ├── RepositoryCard
-│   ├── LanguageChart
-│   └── ShareCard
-│
-├── lib
-│   ├── github
-│   │   ├── client.ts
-│   │   ├── profile.ts
-│   │   ├── repositories.ts
-│   │   └── scoring.ts
-│   │
-│   └── analysis
-│       ├── score.ts
-│       ├── metrics.ts
-│       └── recommendations.ts
-│
-└── app
-    ├── analyze
-    ├── leaderboard
-    └── about
-```
+
+User
+|
+v
+GitScope Interface
+|
+v
+GitHub API Layer
+|
+v
+Analysis Engine
+|
++---- Score System
+|
++---- Repository Intelligence
+|
++---- Recommendations
+|
+v
+Developer Report
+
+````
 
 ---
 
@@ -252,13 +318,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ChromiteDev/gitscope.git
-```
 
-Enter the project:
-
-```bash
 cd gitscope
-```
+````
 
 Install dependencies:
 
@@ -268,31 +330,50 @@ npm install
 
 Create environment variables:
 
-```bash
-cp .env.example .env
+```env
+GITHUB_TOKEN=your_token
+
+NEXT_PUBLIC_SUPABASE_URL=your_url
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
 ```
 
-Start development:
+Run development server:
 
 ```bash
 npm run dev
 ```
 
----
+Open:
 
-# 🔐 Environment Variables
-
-Create a `.env` file:
-
-```env
-GITHUB_TOKEN=your_github_token
-
-SUPABASE_URL=your_supabase_url
-
-SUPABASE_ANON_KEY=your_supabase_key
+```
+http://localhost:3000
 ```
 
-A GitHub token is recommended to avoid API rate limits.
+---
+
+# 📁 Project Structure
+
+```
+gitscope/
+
+├── app/
+│   ├── analyze/
+│   ├── leaderboard/
+│   └── api/
+
+├── components/
+
+├── lib/
+
+│   ├── github/
+│   ├── analysis/
+│   └── scoring/
+
+├── database/
+
+└── public/
+```
 
 ---
 
@@ -300,65 +381,90 @@ A GitHub token is recommended to avoid API rate limits.
 
 ## Completed
 
-* [x] GitHub profile scanning
-* [x] Repository analysis
-* [x] Developer scoring
-* [x] Technology analysis
-* [x] Recommendation engine
-* [x] Modern dashboard UI
+✅ GitHub Profile Analyzer
+✅ Developer Scoring
+✅ Repository Analysis
+✅ Recommendations
+✅ Public Leaderboard
 
-## Planned
+## Coming Soon
 
-* [ ] GitHub OAuth login
-* [ ] Public developer leaderboard
-* [ ] More scoring metrics
-* [ ] Profile comparison
+* [ ] Developer comparison
+* [ ] Shareable profile pages
 * [ ] Browser extension
-* [ ] Developer badges
-* [ ] More export formats
+* [ ] GitHub README analyzer
+* [ ] PDF developer reports
+* [ ] Weekly developer reports
+* [ ] Organization analytics
+* [ ] Achievement badges
+* [ ] More scoring metrics
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
+GitScope is open source.
 
-You can help by:
+Contributions are welcome:
 
-* Reporting bugs
-* Suggesting features
-* Improving documentation
-* Opening pull requests
+* Feature ideas
+* Bug fixes
+* UI improvements
+* Documentation
+* New analysis metrics
 
-Before contributing:
+Steps:
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+```bash
+git clone your-fork
+
+npm install
+
+git checkout -b feature-name
+
+git commit -m "Add feature"
+
+git push
+```
+
+Open a pull request.
+
+---
+
+# 🔒 Privacy
+
+GitScope only analyzes publicly available GitHub information.
+
+We do not:
+
+* Sell user data
+* Store private repositories
+* Access private information without permission
 
 ---
 
 # 📜 License
 
-MIT License.
+MIT License
 
-You are free to use, modify, and distribute this project.
-
----
-
-# ⭐ Support
-
-If GitScope helps you improve your developer profile:
-
-* Star the repository
-* Share it with other developers
-* Contribute improvements
-
-Every star helps the project grow.
+Free to use, modify, and build upon.
 
 ---
 
-<p align="center">
-Built with ❤️ by <a href="https://github.com/ChromiteDev">ChromiteDev</a>
-</p>
+# ⭐ Support GitScope
+
+If GitScope helped you understand your developer journey:
+
+Give the project a star ⭐
+
+It helps more developers discover the project.
+
+---
+
+<div align="center">
+
+Built with ❤️ by **ChromiteDev**
+
+Open source. Developer focused. Always improving.
+
+</div>
