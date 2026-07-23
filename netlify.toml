@@ -1,12 +1,12 @@
 [build]
   command = "npm run build"
-  publish = ".netlify/build"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22"
   NPM_FLAGS = "--legacy-peer-deps"
 
-# Nitro's "netlify" preset generates the Netlify Functions handler and the
-# redirects manifest for SSR routing automatically at build time. If Nitro
-# emits its own netlify.toml into the output directory during build, prefer
-# that generated file's publish path over the one above.
+# Nitro's "netlify" preset builds static assets to `dist` and the SSR
+# handler to `.netlify/functions-internal/` automatically — Netlify
+# picks up the function on its own, this file only needs to point
+# `publish` at the static output directory.
