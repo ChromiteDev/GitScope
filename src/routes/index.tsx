@@ -165,7 +165,7 @@ function Landing() {
               </p>
               <div className="mt-8 flex justify-center gap-3">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/ChromiteDev/GitScope"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 rounded-xl border border-border bg-background/60 backdrop-blur px-5 py-2.5 text-sm font-medium hover:bg-accent hover:-translate-y-0.5"
