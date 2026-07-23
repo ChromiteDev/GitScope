@@ -2,10 +2,12 @@
 
 <p align="center">
 
-![License](https://img.shields.io/github/license/ChromiteDev/chroma-ai)
-![Stars](https://img.shields.io/github/stars/ChromiteDev/chroma-ai)
-![Issues](https://img.shields.io/github/issues/ChromiteDev/chroma-ai)
-![Next.js](https://img.shields.io/badge/Next.js-13-black)
+![License](https://img.shields.io/github/license/ChromiteDev/GitScope)
+![Stars](https://img.shields.io/github/stars/ChromiteDev/GitScope)
+![Forks](https://img.shields.io/github/forks/ChromiteDev/GitScope)
+![Issues](https://img.shields.io/github/issues/ChromiteDev/GitScope)
+![Last Commit](https://img.shields.io/github/last-commit/ChromiteDev/GitScope)
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-MIT-success)
 
