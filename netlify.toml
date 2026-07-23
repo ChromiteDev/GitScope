@@ -1,6 +1,7 @@
 [build]
   command = "npm run build"
   publish = ".netlify/build"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22"
@@ -10,3 +11,4 @@
 # redirects manifest for SSR routing automatically at build time. If Nitro
 # emits its own netlify.toml into the output directory during build, prefer
 # that generated file's publish path over the one above.
+# redirects manifest for SSR routing automatically at build time.
